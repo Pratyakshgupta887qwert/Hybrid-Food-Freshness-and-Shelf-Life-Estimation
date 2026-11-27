@@ -323,4 +323,4 @@ Released under the **MIT License**. Add a `LICENSE` file to the repo.
 
 ## 👤 Author
 
-**Your Name** · Your College / Department · Academic Year
+**PRATYAKSH GUPTA** · GLA UNIVERSITY / COMPUTER SCIENCE AND ENGINEERING · 2026-2027
